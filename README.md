@@ -38,5 +38,3 @@ The project demonstrates how **multimodal emotion recognition** improves accurac
 - **Audio Handling:** Pydub
 
 ---
-
-## 📂 Project Structure
