@@ -2,7 +2,7 @@
 
 # AI Emotion Recognition Using Webcam and Microphone
 
-## 📌 Overview
+##  Overview
 This project implements a **real-time AI-based emotion recognition system** by fusing **facial expression analysis** from webcam video and **speech emotion analysis** from microphone audio. The system continuously captures video and audio inputs, processes them independently, and identifies the user's emotional state.
 
 The project demonstrates how **multimodal emotion recognition** improves accuracy and reliability compared to single-input systems.
