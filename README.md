@@ -82,4 +82,4 @@ B.Tech – Information Technology
 
 
 
-<p align="center">  If you find this project interesting, feel free to star the repository ⭐ </p> 
+<p align="center"> <i><b> If you find this project interesting, feel free to star the repository ⭐ </i></b></p> 
