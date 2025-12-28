@@ -61,6 +61,9 @@ python main.py
 * Microphone access granted
 
 ##  Output
+
+<img width="1919" height="1079" alt="Screenshot 2025-12-20 165016" src="https://github.com/user-attachments/assets/05f043e6-4873-4ac8-b111-2c98e3990401" />
+
 The system displays:
 
 * Detected facial emotion with confidence score
