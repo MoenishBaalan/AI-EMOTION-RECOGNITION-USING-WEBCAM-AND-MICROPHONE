@@ -3,8 +3,6 @@
   Real-time Multimodal Emotion Detection System
 </p>
 
-# AI-Powered Emotion Recognition Using Webcam and Microphone
-
 ## 📌 Project Overview
 This project presents a real-time **AI-powered emotion recognition system** that detects human emotions by analyzing **facial expressions** through a webcam and **speech signals** through a microphone.  
 By combining both visual and audio modalities, the system improves prediction reliability compared to single-source emotion recognition systems.
