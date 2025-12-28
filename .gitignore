@@ -1,5 +1,11 @@
-venv/
+# Python cache files
 __pycache__/
-*.wav
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# OS files
 .DS_Store
 Thumbs.db
